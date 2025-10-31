@@ -2,7 +2,8 @@
 
 **Lab:** Framework Comparison — Material-UI vs Ant Design  
 **Date:** October 31, 2025  
-**Status:** ✅ Complete
+**Status:** ✅ Complete  
+**GitHub:** [https://github.com/Ravindranathrl/week11-mui-vs-antd-lab](https://github.com/Ravindranathrl/week11-mui-vs-antd-lab)
 
 ---
 
